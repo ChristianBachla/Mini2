@@ -1,0 +1,1 @@
+/home/hellden/car_tracker_workspace/devel/.private/video_background_node/lib/pkgconfig/video_background_node.pc

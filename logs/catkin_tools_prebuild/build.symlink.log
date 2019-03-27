@@ -1,0 +1,8 @@
+Symlinking /home/hellden/car_tracker_workspace/devel/./_setup_util.py
+Symlinking /home/hellden/car_tracker_workspace/devel/./setup.sh
+Symlinking /home/hellden/car_tracker_workspace/devel/./setup.bash
+Symlinking /home/hellden/car_tracker_workspace/devel/./env.sh
+Symlinking /home/hellden/car_tracker_workspace/devel/./setup.zsh
+Symlinking /home/hellden/car_tracker_workspace/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/hellden/car_tracker_workspace/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/hellden/car_tracker_workspace/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

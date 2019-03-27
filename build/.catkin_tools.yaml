@@ -1,0 +1,6 @@
+devel_space: /home/hellden/car_tracker_workspace/devel
+install: false
+install_space: /home/hellden/car_tracker_workspace/install
+profile: default
+source_space: /home/hellden/car_tracker_workspace/src
+workspace: /home/hellden/car_tracker_workspace

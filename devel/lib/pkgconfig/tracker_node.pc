@@ -1,0 +1,1 @@
+/home/hellden/car_tracker_workspace/devel/.private/tracker_node/lib/pkgconfig/tracker_node.pc

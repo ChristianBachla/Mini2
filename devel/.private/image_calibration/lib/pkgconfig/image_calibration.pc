@@ -1,0 +1,8 @@
+prefix=/home/hellden/car_tracker_workspace/devel/.private/image_calibration
+
+Name: image_calibration
+Description: Description of image_calibration
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hellden/car_tracker_workspace/devel/.private/image_calibration/lib 
+Requires: 

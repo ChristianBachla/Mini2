@@ -1,0 +1,12 @@
+/home/hellden/car_tracker_workspace/devel/share/video_background_node/cmake/video_background_nodeConfig.cmake 5
+/home/hellden/car_tracker_workspace/devel/share/image_calibration/cmake/image_calibrationConfig-version.cmake 1
+/home/hellden/car_tracker_workspace/devel/share/image_calibration/cmake/image_calibrationConfig.cmake 1
+/home/hellden/car_tracker_workspace/devel/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig-version.cmake 5
+/home/hellden/car_tracker_workspace/devel/lib/pkgconfig/video_background_node.pc 5
+/home/hellden/car_tracker_workspace/devel/lib/pkgconfig/image_calibration.pc 1
+/home/hellden/car_tracker_workspace/devel/lib/pkgconfig/video_stabilizer_node.pc 5
+/home/hellden/car_tracker_workspace/devel/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig.cmake 5
+/home/hellden/car_tracker_workspace/devel/share/tracker_node/cmake/tracker_nodeConfig.cmake 5
+/home/hellden/car_tracker_workspace/devel/share/video_background_node/cmake/video_background_nodeConfig-version.cmake 5
+/home/hellden/car_tracker_workspace/devel/share/tracker_node/cmake/tracker_nodeConfig-version.cmake 5
+/home/hellden/car_tracker_workspace/devel/lib/pkgconfig/tracker_node.pc 5

@@ -1,0 +1,8 @@
+prefix=/home/hellden/car_tracker_workspace/devel/.private/tracker_node
+
+Name: tracker_node
+Description: Description of tracker_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hellden/car_tracker_workspace/devel/.private/tracker_node/lib 
+Requires: 

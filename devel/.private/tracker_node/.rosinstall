@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hellden/car_tracker_workspace/devel/.private/tracker_node/setup.sh

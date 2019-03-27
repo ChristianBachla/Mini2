@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target video_stream[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/video_stream.dir/src/video_stream.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/hellden/car_tracker_workspace/devel/.private/video_stream_opencv/lib/video_stream_opencv/video_stream[0m
+[100%] Built target video_stream

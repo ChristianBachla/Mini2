@@ -1,0 +1,8 @@
+prefix=/home/hellden/car_tracker_workspace/devel/.private/video_stabilizer_node
+
+Name: video_stabilizer_node
+Description: Description of video_stabilizer_node
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hellden/car_tracker_workspace/devel/.private/video_stabilizer_node/lib 
+Requires: 

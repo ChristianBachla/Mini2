@@ -1,0 +1,8 @@
+prefix=/home/hellden/car_tracker_workspace/install
+
+Name: video_background_node
+Description: Description of video_background_node
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hellden/car_tracker_workspace/install/lib 
+Requires: 
